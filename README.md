@@ -12,10 +12,10 @@
 **📍 Projects**
 ----------------------------------------------------------
 
-1. Lotte On
+**1. Lotte On**
 > 롯데e-커머스 LOTTE ON 쇼핑몰 개발
 > 개발 기간: 2024.04.17 ~ 2024.05.17 (1달)
 > 개발 인원: 4명
 > 기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github
-> 📝[Project Repository][https://github.com/Taeyoung20230727/myLotteOn]
+> 📝[Project Repository](https://github.com/Taeyoung20230727/myLotteOn)
 
