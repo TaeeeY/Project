@@ -13,9 +13,17 @@
 ----------------------------------------------------------
 
 **1. Lotte On**
-> 롯데e-커머스 LOTTE ON 쇼핑몰 개발
-> 개발 기간: 2024.04.17 ~ 2024.05.17 (1달)
-> 개발 인원: 4명
-> 기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github
-> 📝[Project Repository](https://github.com/Taeyoung20230727/myLotteOn)
+> 롯데e-커머스 LOTTE ON 쇼핑몰 개발<br>
+> 개발 기간: 2024.04.17 ~ 2024.05.17 (1달)<br>
+> 개발 인원: 4명<br>
+> 기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github<br>
+> 📝[Project Repository](https://github.com/Taeyoung20230727/myLotteOn)<br>
+
+
+**2. OrangeNode**
+> 롯데이노베이트 사내 커뮤니티 사이트 프로젝트<br>
+> 개발 기간: 2024.05.20 ~ 2024.06.21 (33일)<br>
+> 개발 인원: 4명<br>
+> 기술 스택: HTML5/CSS/React/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github/AWS/<br>
+> 📝[Project Repository](   )<br>
 
