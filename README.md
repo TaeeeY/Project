@@ -19,7 +19,7 @@
 > 📝[Project Repository](https://github.com/Taeyoung20230727/myLotteOn)<br>
 
 
-**2. OrangeNode** (그룹웨어)
+**2. OrangeNode** (그룹웨어 - **React + SpringBoot**)
 > 롯데이노베이트 사내 커뮤니티 사이트 프로젝트<br>
 > 개발 기간: 2024.05.20 ~ 2024.06.21 (33일)<br>
 > 개발 인원: 4명<br>
