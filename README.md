@@ -26,15 +26,3 @@
 > 기술 스택: HTML5/SCSS/**React**/Java/Javascript/QueryDSL/MyBatis/**Springboot**/MySQL/Github/AWS/<br>
 > 📝[Project Repository](https://github.com/Taeyoung20230727/OrangeNode-F)<br>
 
-
-
-**3. pokeMon 도감** (**React + SpringBoot**)
-> 토이프로젝트<br>
-> 개발기간 2024-07-02 ~~ <br>
-> 개발 인원 : 2명 <br>
-> 기술 스택: HTML5/SCSS/**React**/Java/Javascript/QueryDSL/MyBatis/**Springboot**/MySQL/Github/AWS/<br>
-> 📝[Project Repository(Front)](https://github.com/TaeeeY/PokeGuideFront)<br>
-> 📝[Project Repository(Back)](https://github.com/TaeeeY/PokeGuideBack)<br>
-
-
-
