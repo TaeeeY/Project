@@ -16,7 +16,7 @@
 > groupby, pivot_table, info, describe, value_counts 등을 통한 데이터 요약과 분석하였습니다.<br>
 > 전혀 다른 형태의 두 데이터를 가져와 정제하고 병합하는 과정을 진행하였습니다.<br>
 > 전처리 한 결과에 대해 수치형, 범주형 데이터의 차이를 이해하고 다양한 그래프로 시각화하였습니다.<br>
-
+[Apartment Data Analyze](https://github.com/TaeeeY/Apartment)<br>
 
 
 **2. Lotte On** (소셜커머스)
