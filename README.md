@@ -25,7 +25,7 @@
 > Puppeteer를 이용하여 페이지 로딩 후 필요한 정보를 탐색하고 추출하는 구조를 구현했습니다, 수집한 데이터를 CSV 파일과 xlsx파일로 저장해보고 중복 데이터를 필터링하여 정제된 데이터셋을 만들었습니다.<br>
 > 결과 : 수집한 영화 평점을 분석해 특정 장르의 평점 분포를 시각화하였습니다. 액션 장르의 평균 평점이 다른 장르보다 높게 나타났으며, 최신 영화의 평가 경향을 파악할 수 있었습니다.<br>
 > 프로젝트를하며 배운점 : Puppeteer의 최신 버전에서 waitForTimeout 메서드가 작동하지 않는 문제를 해결하기 위해 다른 대기 방식으로 대체했습니다.<br>  
-[Movie Rating Scraper Code Highlights]([https://github.com/TaeeeY/Movie Rating Scraper Code Highlights](https://github.com/TaeeeY/Movie-Rating-Scraper-Code-Highlights))<br>
+[Movie Rating Scraper Code Highlights](https://github.com/TaeeeY/Movie-Rating-Scraper-Code-Highlights))<br>
 
 
 
