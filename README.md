@@ -26,9 +26,27 @@
 > **프로젝트를하며 배운점** : Puppeteer의 최신 버전에서 waitForTimeout 메서드가 작동하지 않는 문제를 해결하기 위해 다른 대기 방식으로 대체했습니다.<br>
   [Movie Rating Scraper Code Highlights](https://github.com/TaeeeY/Movie-Rating-Scraper-Code-Highlights)<br>
 
+**3. Crypto Trading Bot (AI 기반 크립토 트레이딩 봇)<br>
+
+프로젝트 개요: Binance API와 OpenAI API를 활용하여 AI 기반 자동 트레이딩 봇을 개발했습니다.<br>
+개발 기간: 2024.06 ~ 2024.07<br>
+사용 기술: Python, Binance API, OpenAI API, Pandas, NumPy, Streamlit<br>
+주요 기능:<br>
+
+- AI 기반 매매 신호 생성 (기술적 분석 지표 활용: RSI, 볼린저 밴드, MACD)<br>
+- 실시간 시장 데이터 수집 및 자동 매매 실행<br>
+- 백테스팅 기능 포함 (거래 성과 분석)<br>
+- Streamlit 대시보드를 통한 실시간 거래 모니터링<br>
+
+**성과 및 배운 점:**<br>
+백테스팅 결과 손실이 발생하여 리스크 관리 및 전략 개선 방향을 연구 중<br>
+AI 신호의 신뢰도를 높이기 위해 추가적인 머신러닝 모델 적용 계획<br>
+[Crypto Trading Bot](https://github.com/TaeeeY/crypto-trading-bot)<br>
 
 
-**3. Lotte On** (소셜커머스)
+
+
+**4. Lotte On** (소셜커머스)
 > 롯데e-커머스 LOTTE ON 쇼핑몰 개발<br>
 > 개발 기간: 2024.04.17 ~ 2024.05.17 (1달)<br>
 > 개발 인원: 4명<br>
@@ -36,7 +54,7 @@
 > 📝[Project Repository](https://github.com/Taeyoung20230727/myLotteOn)<br>
 
 
-**4. OrangeNode** (그룹웨어 - **React + SpringBoot**)
+**5. OrangeNode** (그룹웨어 - **React + SpringBoot**)
 > 롯데이노베이트 사내 커뮤니티 사이트 프로젝트<br>
 > 개발 기간: 2024.05.20 ~ 2024.06.21 (33일)<br>
 > 개발 인원: 4명<br>
