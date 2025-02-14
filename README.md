@@ -26,7 +26,7 @@
 > **프로젝트를하며 배운점** : Puppeteer의 최신 버전에서 waitForTimeout 메서드가 작동하지 않는 문제를 해결하기 위해 다른 대기 방식으로 대체했습니다.<br>
   [Movie Rating Scraper Code Highlights](https://github.com/TaeeeY/Movie-Rating-Scraper-Code-Highlights)<br>
 
-**3. Crypto Trading Bot (AI 기반 크립토 트레이딩 봇)<br>
+**3. Crypto Trading Bot (AI 기반 크립토 트레이딩 봇)**<br>
 
 > 프로젝트 개요: Binance API와 OpenAI API를 활용하여 AI 기반 자동 트레이딩 봇을 개발했습니다.<br>
 > 개발 기간: 2024.06 ~ 2024.07<br>
