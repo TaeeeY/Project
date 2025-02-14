@@ -28,9 +28,9 @@
 
 **3. Crypto Trading Bot (AI 기반 크립토 트레이딩 봇)**<br>
 
-> 프로젝트 개요: Binance API와 OpenAI API를 활용하여 AI 기반 자동 트레이딩 봇을 개발했습니다.<br>
-> 사용 기술: Python, Binance API, OpenAI API, Pandas, NumPy, Streamlit<br>
-> 주요 기능:<br>
+> **프로젝트 개요**: Binance API와 OpenAI API를 활용하여 AI 기반 자동 트레이딩 봇을 개발했습니다.<br>
+> **사용 기술**: Python, Binance API, OpenAI API, Pandas, NumPy, Streamlit<br>
+> **주요 기능**:<br>
 > 
 > - AI 기반 매매 신호 생성 (기술적 분석 지표 활용: RSI, 볼린저 밴드, MACD)<br>
 > - 실시간 시장 데이터 수집 및 자동 매매 실행<br>
@@ -38,7 +38,7 @@
 > - Streamlit 대시보드를 통한 실시간 거래 모니터링<br>
 >
 > **성과 및 배운 점:**<br>
-> 백테스팅 결과 손실이 발생하여 리스크 관리 및 전략 개선 방향을 연구 중<br>
+> 백테스팅 결과 손실이 발생하여 리스크 관리 및 전략 개선 방향을 고민 중<br>
 > AI 신호의 신뢰도를 높이기 위해 추가적인 머신러닝 모델 적용 계획<br>
 > [Crypto Trading Bot](https://github.com/TaeeeY/crypto-trading-bot)<br>
 
