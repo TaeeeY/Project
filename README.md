@@ -29,7 +29,6 @@
 **3. Crypto Trading Bot (AI 기반 크립토 트레이딩 봇)**<br>
 
 > 프로젝트 개요: Binance API와 OpenAI API를 활용하여 AI 기반 자동 트레이딩 봇을 개발했습니다.<br>
-> 개발 기간: 2024.06 ~ 2024.07<br>
 > 사용 기술: Python, Binance API, OpenAI API, Pandas, NumPy, Streamlit<br>
 > 주요 기능:<br>
 > 
